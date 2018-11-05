@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
    })
    .add({
     targets: '.logo',
-    width:['0px', '230px'],
+    width:['0%', '30%'],
     offset:'-=500',
    })
    .add({
